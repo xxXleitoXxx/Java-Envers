@@ -1,4 +1,4 @@
-# Proyecto: Trabajo Practico JPA
+# Proyecto: Trabajo Practico Java-Envers
 
 Este proyecto fue hecho en inteligent idea, para ejecutarlo hay que abrirlo como un proyecto en inteligent idea y necesitamos tener h2 instalado para poder acceder a la base de datos,para ver el archivo de la base de datos del proyecto debemos colocar el archivo test1.mv.db en la ruta del usuario y copiar la ruta en donde colocamos el archivo en la url ubicada en `Envers/src/main/resources/META-INF/persistence.xml`
 
